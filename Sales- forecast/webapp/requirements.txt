@@ -1,0 +1,10 @@
+Flask==1.1.4
+numpy==1.19.5
+pandas==1.1.5
+requests==2.23.0
+xgboost==0.90
+inflection==0.5.1
+scikit-learn==1.0.1
+
+
+
