@@ -100,8 +100,10 @@ O CEO precisa encontrar as melhores oportunidades de negócio em sua base de dad
 <img src = "imgs/1.png" alt = "desenho" largura = "100%" />
 
 - Uma vez a casa em posse da empresa, qual o melhor momento para vendê-las e qual seria o preço da venda?
+<img src = "imgs/r2.png" alt = "desenho" largura = "100%" />
 
 - A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças? Qual o incremento no preço dado por cada opção de reforma?
+<img src = "imgs/r3.png" alt = "desenho" largura = "100%" />
 
 - Qual é o registro mais antigo?
     - Id: 5101405331
@@ -151,5 +153,10 @@ O CEO precisa encontrar as melhores oportunidades de negócio em sua base de dad
 <img src = "imgs/numerical_correlations.png" alt = "desenho" largura = "100%" />
 
 # Próximos passos:
-# Referências
+- Testar outros modelos de agrupamento como :
+    - Optics, Mini-Batch K-Means,  Mean Shift,  Gaussian Mixture ,  BIRCH,  Agglomerative Clustering.
+- Desenvolver um modelo que faça a precificação dos futuros imóveis para encontrar  propriedades com seu valor depreciado.
+- Criar um dashboard interativo que resume as melhores oportunidades para o time de negócio.
+# Referências:
+- Os 5 Projetos de Data Science Que Fará o Recrutador Olhar para Você!, Meigarom Lopez, https://sejaumdatascientist.com/os-5-projetos-de-data-science-que-fara-o-recrutador-olhar-para-voce/
 
