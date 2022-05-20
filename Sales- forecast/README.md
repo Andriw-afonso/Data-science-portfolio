@@ -81,8 +81,6 @@ seaborn, requests, pandas, e numpy.
 - Mais no primeiro semestre do ano.
 - Menos nos feriados de natal.
 - Mais com competidores mais próximos.
-
-### Dashboard das principais features:
 <img src = "imgs/dashboard.png" alt = "desenho" largura = "100%" />
 
 ## Produto de Machine learning:
