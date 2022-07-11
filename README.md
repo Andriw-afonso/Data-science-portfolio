@@ -1,3 +1,3 @@
-<img src = "imgs/CapaRepositorioDeEstudos.png" alt = "desenho" largura = "100%" />
+<img src = "imgs/CapaPortifolio.png" alt = "desenho" largura = "100%" />
 
 
