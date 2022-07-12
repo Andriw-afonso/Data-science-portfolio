@@ -1,6 +1,3 @@
-# Detection of financial fraud
-Detecção de fraudes financeiras através de machine learning.
-
 <img src = "imgs/capa.png" alt = "desenho" largura = "100%" />
 
 
