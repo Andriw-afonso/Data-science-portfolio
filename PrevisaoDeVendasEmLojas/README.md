@@ -1,6 +1,3 @@
-# Previsão de vendas
-Previsão de vendas para os próximos 30 dias utilizando machine learning.
-
 <img src = "imgs/capa.png" alt = "desenho" largura = "100%" />
 
 
