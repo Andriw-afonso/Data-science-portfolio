@@ -1,6 +1,3 @@
-# Predições de falhas em motores
-Predições de falhas em motores usando Machine Leraning
-
 <img src = "imagem/failure_prediction.png" alt = "desenho" largura = "100%" />
 
 ## Contexto do Desafio
