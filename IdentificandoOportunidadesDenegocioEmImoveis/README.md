@@ -1,5 +1,3 @@
-# Compra e revenda de casas
-Projeto de insights com modelo de precificação de casas.
 <img src = "imgs/capa.png" alt = "desenho" largura = "100%" />
 
 # Introdução:
