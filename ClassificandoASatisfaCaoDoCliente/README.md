@@ -1,5 +1,3 @@
-# Customer satisfaction classifier
-
 <img src = "imgs/airlines.png" alt = "desenho" largura = "100%" />
 
 ## Goal :
