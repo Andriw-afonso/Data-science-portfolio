@@ -1,6 +1,3 @@
-# Diagnóstico cardiovascular
-Diagnóstico cardiovascular atravéz de Machine Learning
-
 <img src = "imgs/capa.png" alt = "desenho" largura = "100%" />
 
 
