@@ -1,7 +1,3 @@
-# Customer churn identification
-
-Previsão de Churn utilizando machine learning.
-
 <img src = "imgs/capa.png" alt = "desenho" largura = "100%" />
 
 
