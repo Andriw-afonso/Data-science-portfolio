@@ -1,6 +1,3 @@
-# Best Customers
-Selecionando os melhores clientes com Machine learning.
-
 <img src = "imgs/capa.png" alt = "desenho" largura = "100%" />
 
 
