@@ -1,6 +1,6 @@
 <img src = "imgs/capa.png" alt = "desenho" largura = "100%" />
 
-## Introdução:
+# Introdução:
 Atualmente com o  maior poder de processamento de dados, é possível a criação de ferramentas estatísticas que podem automatizar e aumentar a precisão de trabalhos humanos.
 Pensando nisso, resolvi utilizar essas tecnologias visando a melhoria de  tarefas no setor médico.
 ## Problema de negócio:
