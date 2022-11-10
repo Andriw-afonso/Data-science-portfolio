@@ -33,4 +33,5 @@ O objetivo do projeto é predizer os valores diários de máximo, mínimo e fech
 <img src = "imgs/metricas.png" alt = "desenho" largura = "100%" />
 
 ## Funcionamento do app:
+![](https://github.com/Andriw-afonso/DataSciencePortfolio/blob/main/PrevendoOComportamentoDasAcoesDaPetrobras/imgs/funcionamento_do_app.gif)
 
